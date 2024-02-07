@@ -37,9 +37,4 @@ The `SSVEP.mat` file contains the following data:
 
 To use this code, ensure you have the `SSVEP.mat` file containing the EEG data. Adjust parameters such as frequency range, window size, and overlap as needed. Run the provided scripts for Frequency Content Plotting and CCA analysis.
 
-## Contributors
-
-- [Arya Koureshi]
-- [Sharif University of Technology]
-
 Feel free to contribute to this repository by improving the analysis methods or adding additional features.
